@@ -1,20 +1,20 @@
 # Prettify JSON
 
-[TODO. There will be project description]
+Предназначен для human-readeble вывода json файлов. 
 
 # Quickstart
-
-[TODO]
-
-Example of script launch on Linux, Python 3.5:
+Запуск скрипта на Linux и python3.5
 
 ```#!bash
 
 $ python pprint_json.py <path to file>
-# TODO add output example
+{
+    key1: value1,
+    key2: value2
+}
 
 ```
-
+Аналогично для Windows
 # Project Goals
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+Код создан в образовательных целях. [DEVMAN.org](https://devman.org)
